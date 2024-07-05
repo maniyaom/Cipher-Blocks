@@ -65,6 +65,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+REACT_APP_apiKey=AIzaSyAYpwqiWg8AeQMxaErFiKRXgf1VgmXG-pg
+REACT_APP_authDomain=cipherblocks.firebaseapp.com
+REACT_APP_projectId=cipherblocks
+REACT_APP_storageBucket=cipherblocks.appspot.com
+REACT_APP_messagingSenderId=293061711927
+REACT_APP_appId=1:293061711927:web:cfd55194692087ea9c07b2
+REACT_APP_measurementId=G-V8NF4NSC7H
+
+REACT_APP_serviceId=service_p806bva
+REACT_APP_contactTemplateId=template_42jtlqj
+REACT_APP_emailJsPublicKey=eMsBljowtJGjGFtIf
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
